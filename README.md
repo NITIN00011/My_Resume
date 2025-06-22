@@ -6,18 +6,27 @@ Resume
 
 
 Resume
+
 👨‍💻 Nitin Garhwal
+
 📍 Location: Sikar, Rajasthan
+
 🎓 Education: Bachelor of Computer Applications (BCA), Pratap Institute of Technology and Science
+
 📧 Email: nitingarhwal184@gmail.com
 
 🧾 About Me
+
 I am a second-semester BCA student passionate about programming, web development, and learning the latest technologies in AI and Data Science. I am currently building a content-based website focused on tech news, AI, and programming updates, with secure admin-only uploads.
 
 💼 Skills
-Programming Languages: C++, JavaScript, HTML, CSS
-Database: MySQL
-Web Development: Frontend (HTML, CSS, JavaScript)
+
+Programming Languages:   C++, JavaScript, HTML, CSS
+
+Database:    MySQL
+
+Web Development:   Frontend (HTML, CSS, JavaScript)
+
 Tools & Technologies: Git, VS Code
 🗂️ Projects
 🔐Clone of BBC website
