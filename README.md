@@ -37,10 +37,6 @@ A website that displays Fully clone of BBC website.
 
 Built using HTML, CSS, and JavaScript.
 
-📄 Resume
-
-👉 Download My Resume (PDF)-resume.pdf
-
 📫 Let's Connect
 
 GitHub: github.com/nitin00011
